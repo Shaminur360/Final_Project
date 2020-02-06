@@ -12,9 +12,7 @@ import com.bumptech.glide.Glide;
 
 import java.util.List;
 
-/**
- * Created by Belal on 10/18/2017.
- */
+
 
 public class ProductsAdapter extends RecyclerView.Adapter<ProductsAdapter.ProductViewHolder> {
 
